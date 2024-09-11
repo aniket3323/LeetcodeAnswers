@@ -1,4 +1,4 @@
-package com.leet.waterBottles1518;
+package com.leet.waterBottles_1518;
 
 public class Solution {
     public int numWaterBottles(int numBottles, int numExchange) {
